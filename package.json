@@ -1,0 +1,21 @@
+{
+  "name": "bases-node-respaldo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "respaldo"
+  },
+  "keywords": [
+    "respaldo"
+  ],
+  "author": "Jonathan Sosa",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.4.0"
+  }
+}
